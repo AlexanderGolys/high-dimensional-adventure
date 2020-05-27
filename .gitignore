@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+.idea
+4da_lwjgl.iml
